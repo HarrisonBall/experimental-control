@@ -11,14 +11,13 @@ arXiv:1404.0820 [quant-ph]
 
 
 Harrison B. Ball (2018).   
-<br />
 Robust quantum control & verification & quantum simulation with trapped ions
-Phys., 10.
 <br />
 Doctoral dissertation, http://hdl.handle.net/2123/17899, 2018, The University of Sydney
 
 and in the follow-up publication
 
-Harrison Ball, Christian D. Marciniak, Robert N. Wolf, Alex T.-H. Hung, Karsten Pyka, Michael J. Biercuk (2018).   Site-resolved imaging of beryllium ion crystals in a high-optical-access Pen- ning trap with in-bore optomechanics. Nat. Phys., 10.
+Harrison Ball, Christian D. Marciniak, Robert N. Wolf, Alex T.-H. Hung, Karsten Pyka, Michael J. Biercuk (2018).   
+Site-resolved imaging of beryllium ion crystals in a high-optical-access Pen- ning trap with in-bore optomechanics. 
 <br />
-[arXiv:1807.00902 [quant-ph]](https://arxiv.org/abs/1807.00902)
+[arXiv:1807.00902 [physics]](https://arxiv.org/abs/1807.00902)
