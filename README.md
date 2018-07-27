@@ -5,6 +5,12 @@ This repository contains the experimental control software I wrote for automatin
 
 More information about this system experiment can be found in my PhD thesis: 
 
+Soare, A., Ball, H., Hayes, D., Sastrawan, J., Jarratt, M. C., McLoughlin, J. J., Zhen, X., Green, T. J., and Biercuk, M. J. (2014). Experimental noise filtering by quantum control. Nat. Phys., 10. 
+Published in: Nature Physics 10, 825-829 (2014) 
+arXiv:1404.0820 [quant-ph]
+
+
+
 ``Robust quantum control & verification & quantum simulation with trapped ions''
 Harrison B. Ball
 Doctoral dissertation, http://hdl.handle.net/2123/17899, 2018, The University of Sydney
