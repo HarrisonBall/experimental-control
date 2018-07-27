@@ -11,8 +11,7 @@ arXiv:1404.0820 [quant-ph]
 
 
 Harrison B. Ball (2018).   
-Robust quantum control & verification & quantum simulation with trapped ions
-<br />
+Robust quantum control & verification & quantum simulation with trapped ions.
 Doctoral dissertation, http://hdl.handle.net/2123/17899, 2018, The University of Sydney
 
 and in the follow-up publication
