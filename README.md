@@ -5,8 +5,7 @@ This repository contains the experimental control software I wrote for automatin
 
 More information about this system experiment can be found in my PhD thesis: 
 
-Robust quantum control & veri cation & quantum simulation
-with trapped ions
+Robust quantum control & verification & quantum simulation with trapped ions
 Harrison B. Ball
 Doctoral dissertation, http://hdl.handle.net/2123/17899, 2018, The University of Sydney
 
